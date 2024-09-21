@@ -1,0 +1,16 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
+# exclude js related
+/app
+/migrations
+/tests
+/package.json
+/tsconfig.json
+/yarn.lock
+/.prettierignore
